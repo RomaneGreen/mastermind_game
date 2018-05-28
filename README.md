@@ -6,4 +6,4 @@ Mastermind the game in ruby,with AI
 
 1. download/clone project
 2. Cd into folder
-3. Enter $ ruby mastermind.rb in terminal
+3. Enter ```$ ruby mastermind.rb in terminal```
