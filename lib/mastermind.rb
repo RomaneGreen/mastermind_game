@@ -99,7 +99,7 @@ until @chances == 10 || @colorsguess.size == @colors.size
 answer = gets.strip.downcase
 
 if @colorsguess.include? answer
-puts "already guessed dickhead"
+puts "already guessed sir"
 @chances += 1
 elsif @colors.include? answer
   puts "Correct..guess another color
